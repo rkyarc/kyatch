@@ -1,9 +1,26 @@
 {
+  "id": "/",
   "short_name": "Kyatch",
-  "name": "Kyatch - Personal Watch Tracker",
+  "name": "Kyatch — Personal Watch Log",
+  "description": "Aplikasi pelacak episode film, series, dan anime pribadi.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#020617",
-  "theme_color": "#020617",
-  "orientation": "portrait-primary"
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
 }
