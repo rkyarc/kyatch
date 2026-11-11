@@ -1,0 +1,9 @@
+{
+  "short_name": "Kyatch",
+  "name": "Kyatch - Personal Watch Tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "orientation": "portrait-primary"
+}
